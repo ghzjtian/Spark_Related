@@ -7,7 +7,7 @@
   * [apache2配置](apache2pei-zhi.md)
   * [Shadowsocks安装配置](shadowsocksan-zhuang-pei-zhi.md)
   * [安装\_Python](an-zhuang-python.md)
-  * [speedtest-cli测速工具](chapter1.md)
+  * [speedtest-cli测速工具](speedtest.md)
   * [ssh相关](sshxiang-guan.md)
   * [debian系统升级](debianxi-tong-sheng-ji.md)
   * [bbr安装](bbran-zhuang.md)
