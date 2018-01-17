@@ -7,3 +7,4 @@ https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysq
 
 * 2.php control 命令
     * 1./etc/init.d/php7.0-fpm status
+    
