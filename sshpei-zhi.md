@@ -23,6 +23,7 @@ ssh root@104.238.114.125
 (MBP)$ scp root@45.32.24.112:/tmp/aa.test /Users/tianzeng/Desktop
 ```
 
+服务器到服务器:
 ```
 scp tian@104.238.154.115:/var/www/webside /Users/tianzeng/Desktop
 ```
