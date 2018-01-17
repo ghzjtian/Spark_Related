@@ -14,8 +14,8 @@ ssh root@104.238.114.125
 ###2.用scp 上传和下载文件.
 * 1.把文件上传到 /tmp,然后再把文件到需要的文件里面
 ```
-scp /Users/tianzeng/.ssh/id_rsa.pub git@10.100.1.217:/tmp
-mv /tmp/id_rsa.pub /home/git/.ssh/authorized_keys
+(MBP)scp /Users/tianzeng/.ssh/id_rsa.pub git@10.100.1.217:/tmp
+(服务器)mv /tmp/id_rsa.pub /home/git/.ssh/authorized_keys
 ```
 
 * 2.文件下载
