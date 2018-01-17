@@ -47,7 +47,8 @@ echo "deb http://shadowsocks.org/debian stretch main" >> /etc/apt/sources.list
 
 ```
 apt-get update
-apt-get install shadowsocks
+apt install shadowsocks-libev
+
 ```
 
 ---
