@@ -36,7 +36,7 @@ scp tian@104.238.154.125:/var/www/webside.tar.gz /tmp
 
 
     * 1.打包small 为 small.tar.gz:tar -czf small.tar.gz small
-    
+    * 2.解包:tar -xvf small.tar.gz
 
 
 
