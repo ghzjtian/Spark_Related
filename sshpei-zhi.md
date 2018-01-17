@@ -33,7 +33,7 @@ scp tian@104.238.154.125:/var/www/webside.tar.gz /tmp
 * 3.文件夹的压缩及解压
 http://cn.linux.vbird.org/linux_basic/0240tarcompress.php
 
-    * 1.打包:tar -czf small.tar.gz small
+    * 1.打包small 为 small.tar.gz:tar -czf small.tar.gz small
 
 
 
