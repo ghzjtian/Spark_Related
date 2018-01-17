@@ -22,12 +22,12 @@ ssh root@104.238.114.125
 
     * 1.服务器到PC:
 ```
-(MBP)$ scp root@45.32.24.179:/tmp/aa.test /Users/tianzeng/Desktop
+(MBP)$ scp root@45.32.24.129:/tmp/aa.test /Users/tianzeng/Desktop
 ```
 
  * 2.服务器到服务器:
 ```
-scp tian@104.238.154.115:/var/www/webside.tar.gz /tmp
+scp tian@104.238.154.125:/var/www/webside.tar.gz /tmp
 ```
 
 * 3.文件夹的压缩及解压
