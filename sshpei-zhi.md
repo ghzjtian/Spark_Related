@@ -18,7 +18,7 @@ ssh root@104.238.114.125
 (服务器)mv /tmp/id_rsa.pub /home/git/.ssh/authorized_keys
 ```
 
-* 2.文件下载
+* 2.文件下载(从服务器下载 aa.test 到本地)
 ```
 (MBP)$ scp root@45.32.24.179:/tmp/aa.test /Users/tianzeng/Desktop
 ```
