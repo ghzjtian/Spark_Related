@@ -25,6 +25,7 @@ ssh root@104.238.114.125
 
 
 
+scp tian@104.238.154.115:/var/www/webside /Users/tianzeng/Desktop
 
 
 
