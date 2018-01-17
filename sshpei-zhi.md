@@ -20,9 +20,8 @@ ssh root@104.238.114.125
 
 * 2.文件下载
 ```
-$ scp tian@10.100.1.217:/home/git/hello.txt /Users/tianzeng/Desktop
+(服务器)$ scp root@45.32.24.179:/tmp/aa.test /Users/tianzeng/Desktop
 ```
-
 
 
 
