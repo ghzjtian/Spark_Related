@@ -23,9 +23,14 @@ ssh root@104.238.114.125
 (MBP)$ scp root@45.32.24.112:/tmp/aa.test /Users/tianzeng/Desktop
 ```
 
-
-
+```
 scp tian@104.238.154.115:/var/www/webside /Users/tianzeng/Desktop
+```
+
+* 3.文件夹的压缩及解压
+http://cn.linux.vbird.org/linux_basic/0240tarcompress.php
+
+    * 1.tar -czf small.tar.gz small
 
 
 
