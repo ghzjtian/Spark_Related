@@ -21,7 +21,6 @@ ssh root@104.238.114.125
 * 2.文件下载(从服务器下载 aa.test 到本地)
 
     * 1.服务器到PC:
-
 ```
 (MBP)$ scp root@45.32.24.112:/tmp/aa.test /Users/tianzeng/Desktop
 ```
