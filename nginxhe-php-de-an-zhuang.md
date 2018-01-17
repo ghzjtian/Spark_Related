@@ -4,3 +4,6 @@ https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysq
 
 
 * 1.apt-get install php7.0-fpm php7.0-mysql php7.0-common php7.0-gd php7.0-json php7.0-cli php7.0-curl libapache2-mod-php7.0
+
+* 2.php control
+    * 1./etc/init.d/php7.0-fpm status
