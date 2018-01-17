@@ -27,7 +27,7 @@ ssh root@104.238.114.125
 
  * 2.服务器到服务器:
 ```
-scp tian@45.32.24.179:/var/www/webside.tar.gz /tmp
+scp tian@45.32.24.112:/var/www/webside.tar.gz /tmp
 ```
 
 * 3.文件夹的压缩及解压
