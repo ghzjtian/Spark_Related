@@ -20,7 +20,7 @@ ssh root@104.238.114.125
 
 * 2.文件下载
 ```
-(服务器)$ scp root@45.32.24.179:/tmp/aa.test /Users/tianzeng/Desktop
+(MBP)$ scp root@45.32.24.179:/tmp/aa.test /Users/tianzeng/Desktop
 ```
 
 
